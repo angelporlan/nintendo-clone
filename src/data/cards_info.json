@@ -1,0 +1,136 @@
+{
+    "latest_news": [
+      {
+        "title": "Mi verano, mi Nintendo Switch",
+        "date": "05-07-2024",
+        "platform": "Nintendo Switch",
+        "summary": "Disfrutad tiempo juntos estéis donde estéis",
+        "image_path": "SQ_Animal_Crossing_New_Horizons___Project_Suitcases_v3_image950w.jpg"
+      },
+      {
+        "title": "Destacados de Nintendo eShop – 04-07-2024",
+        "date": "04-07-2024",
+        "platform": "Nintendo Switch",
+        "summary": "¡Ya están aquí las novedades de Nintendo eShop de esta semana!",
+        "image_path": "SQ_WeeklyDownloadNews_esES_image950w.jpg"
+      },
+      {
+        "title": "Próximos juegos para Nintendo Switch – Julio de 2024",
+        "date": "28-06-2024",
+        "platform": "Nintendo Switch",
+        "summary": "¡Nintendo World Championships: NES Edition, Darkest Dungeon II, Arranger: A Role-Puzzling Adventure y muchos títulos más están de camino a Nintendo Switch!",
+        "image_path": "1x1_NSwitch_UpcomingGames_July_ES_es_image950w.jpg"
+      },
+      {
+        "title": "Mario y sus amigos te esperan este verano en el Nintendo Switch Tour",
+        "date": "28-06-2024",
+        "platform": "Nintendo Switch",
+        "summary": "La gira visitará 17 ciudades españolas con Nintendo Switch como protagonista",
+        "image_path": "1X1_Gira_verano_2024_image950w.jpg"
+      },
+      {
+        "title": "¡Los 10 mejores consejos del profesor Fesor para cazar fantasmas!",
+        "date": "27-06-2024",
+        "platform": "Nintendo Switch",
+        "summary": "¿Es la primera vez que juegas a Luigi’s Mansion 2 HD? ¡Pues deja que el profesor Fesor te eche una manita!",
+        "image_path": "1x1_NSwitch_LuigisMansion2HD_NewcomerNews_ES_es_image950w.jpg"
+      },
+      {
+        "title": "Destacados de Nintendo eShop – 27-06-2024",
+        "date": "27-06-2024",
+        "platform": "Nintendo Switch",
+        "summary": "¿Cuáles son las novedades de Nintendo eShop? ¡Échales un ojo!",
+        "image_path": "1x1_WeeklyDownloadNews_20240627_ESes_image950w.jpg"
+      },
+      {
+        "title": "¡Las reseñas de Luigi’s Mansion 2 HD ya están aquí!",
+        "date": "26-06-2024",
+        "platform": "Nintendo Switch",
+        "summary": "¡Pásalo de miedo a partir del 27 de junio!",
+        "image_path": "SQ_LM2HD_accolades_image950w.jpg"
+      },
+      {
+        "title": "¡Este verano disfruta de sagas clásicas de Nintendo!",
+        "date": "24-06-2024",
+        "platform": "Nintendo Switch",
+        "summary": "Te esperan más de 150 juegos clásicos de consolas de Nintendo",
+        "image_path": "SQ_Creatividades_NSO_image950w.jpg"
+      },
+      {
+        "title": "Destacados de Nintendo eShop – 20-06-2024",
+        "date": "20-06-2024",
+        "platform": "Nintendo Switch",
+        "summary": "¡No te pierdas las novedades de esta semana en Nintendo eShop!",
+        "image_path": "1x1_WeeklyDownloadNews_20240620_ESes_image950w.jpg"
+      },
+      {
+        "title": "Ya puedes reservar Super Monkey Ball Banana Rumble",
+        "date": "17-06-2024",
+        "platform": "Nintendo Switch",
+        "summary": "Disponible el 25 de junio para Nintendo Switch",
+        "image_path": "SQ_Preventa_SMonkeyBall_image950w.jpg"
+      }
+    ],
+    "upcoming_games": [
+      {
+        "title": "SCHiM",
+        "release_date": "18-07-2024",
+        "platform": "Nintendo Switch",
+        "format": "Programa descargable",
+        "image_path": "1x1_NSwitchDS_SCHiM_bannerTM_MD.jpg"
+      },
+      {
+        "title": "Nintendo World Championships: NES Edition",
+        "release_date": "18-07-2024",
+        "platform": "Nintendo Switch",
+        "format": "Cartucho",
+        "image_path": "1x1_NSwitch_NintendoWorldChampionshipsNESEdition_bannerTM_MD.jpg"
+      },
+      {
+        "title": "Rivalia: Dungeon Raiders",
+        "release_date": "18-07-2024",
+        "platform": "Nintendo Switch",
+        "format": "Programa descargable",
+        "image_path": "1x1_NSwitchDS_RivaliaDungeonRaiders_bannerTM_MD.jpg"
+      },
+      {
+        "title": "Satryn DX",
+        "release_date": "18-07-2024",
+        "platform": "Nintendo Switch",
+        "format": "Programa descargable",
+        "image_path": "1x1_NSwitchDS_SatrynDx_bannerTM_MD.jpg"
+      }
+    ],
+    "recent_releases": [
+      {
+        "title": "RPM - Road Punk Mayhem",
+        "release_date": "17-07-2024",
+        "platform": "Nintendo Switch",
+        "format": "Programa descargable",
+        "image_path": "1x1_NSwitchDS_RPMRoadPunkMayhem_bannerTM_MD.jpg"
+      },
+      {
+        "title": "Las Tortugas Ninja: El destino de Splinter",
+        "release_date": "17-07-2024",
+        "platform": "Nintendo Switch",
+        "format": "Programa descargable",
+        "image_path": "1x1_NSwitchDS_TeenageMutantNinjaTurtlesSplinteredFate_new_bannerTM_MD.jpg"
+      },
+      {
+        "title": "Nerd Survivors",
+        "release_date": "17-07-2024",
+        "platform": "Nintendo Switch",
+        "format": "Programa descargable",
+        "image_path": "1x1_NSwitchDS_NerdSurvivors_bannerTM_MD.jpg"
+      },
+      {
+        "title": "Let's School",
+        "release_date": "16-07-2024",
+        "platform": "Nintendo Switch",
+        "format": "Programa descargable",
+        "image_path": "1x1_NSwitchDS_LetsSchool_bannerTM_MD.jpg"
+      }
+    ]
+  }
+  
+  
