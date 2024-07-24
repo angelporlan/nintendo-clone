@@ -1,5 +1,5 @@
-# Nintendo Clone
-# [View the website online](https://nintendo-clone.netlify.app/)
+# Nintendo Clone ## [View the website online](https://nintendo-clone.netlify.app/)
+
 ## Project setup
 ```
 npm install
